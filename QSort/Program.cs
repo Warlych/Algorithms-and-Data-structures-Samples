@@ -38,3 +38,23 @@ void Swap<T>(ref T left, ref T right)
 
 QSort(testArrInt, 0, testArrInt.Length - 1);
 QSort(testArrDouble, 2, testArrDouble.Length - 1);
+
+/// <feature>
+/// if you need the pivot element to be taken from the middle of the array, then you need modify Partition<T>(...):
+/// int pivotIndex = (low + high) / 2;
+/// T pivot = array[pivotIndex];
+/// int i = low;
+/// Swap(ref array[pivotIndex], ref array[high]);
+/// for (int j = low; j < high; j++)
+/// {
+///  if (array[j].CompareTo(pivot) < 0)
+///  {
+///     Swap(ref array[i], ref array[j]);
+///     i++;
+///  }
+/// }
+///
+/// Swap(ref array[i], ref array[high]);
+/// return i;
+/// 
+/// </feature>
