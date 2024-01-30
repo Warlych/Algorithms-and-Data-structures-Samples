@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huffman-Algorithm", "Huffma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary-Search", "Binary-Search\Binary-Search.csproj", "{34942E4F-178D-43AE-929B-646E9C758D93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knuth-Morris-Pratt-Algorithm", "Knuth-Morris-Pratt-Algorithm\Knuth-Morris-Pratt-Algorithm.csproj", "{224307E2-8667-4DBF-9864-D6F6B117BFC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{34942E4F-178D-43AE-929B-646E9C758D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34942E4F-178D-43AE-929B-646E9C758D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34942E4F-178D-43AE-929B-646E9C758D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
