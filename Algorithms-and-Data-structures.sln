@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabin-Karp-Algorithm", "Rab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huffman-Algorithm", "Huffman-Algorithm\Huffman-Algorithm.csproj", "{D26602CC-4C21-47BA-8DE7-E3A712534770}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary-Search", "Binary-Search\Binary-Search.csproj", "{34942E4F-178D-43AE-929B-646E9C758D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D26602CC-4C21-47BA-8DE7-E3A712534770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26602CC-4C21-47BA-8DE7-E3A712534770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26602CC-4C21-47BA-8DE7-E3A712534770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34942E4F-178D-43AE-929B-646E9C758D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34942E4F-178D-43AE-929B-646E9C758D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34942E4F-178D-43AE-929B-646E9C758D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34942E4F-178D-43AE-929B-646E9C758D93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
