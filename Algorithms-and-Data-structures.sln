@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary-Search", "Binary-Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knuth-Morris-Pratt-Algorithm", "Knuth-Morris-Pratt-Algorithm\Knuth-Morris-Pratt-Algorithm.csproj", "{224307E2-8667-4DBF-9864-D6F6B117BFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{C0A21D74-9E45-40D7-A1A5-5D0E36C5A903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224307E2-8667-4DBF-9864-D6F6B117BFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A21D74-9E45-40D7-A1A5-5D0E36C5A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A21D74-9E45-40D7-A1A5-5D0E36C5A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A21D74-9E45-40D7-A1A5-5D0E36C5A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A21D74-9E45-40D7-A1A5-5D0E36C5A903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
